@@ -65,7 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.language",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -174,7 +174,7 @@
       <updated>1708785011004</updated>
       <workItem from="1708785012058" duration="329000" />
       <workItem from="1708835545451" duration="1589000" />
-      <workItem from="1708837422596" duration="639000" />
+      <workItem from="1708837422596" duration="1215000" />
     </task>
     <servers />
   </component>
