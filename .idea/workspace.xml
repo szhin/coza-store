@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b5e47e-48b8-4b18-8fe4-aed2f031c168" name="Changes" comment="first-commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/toan.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/bang.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="b4b5e47e-48b8-4b18-8fe4-aed2f031c168" name="Changes" comment="first-commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +172,7 @@
       <updated>1708785011004</updated>
       <workItem from="1708785012058" duration="329000" />
       <workItem from="1708835545451" duration="1589000" />
-      <workItem from="1708837422596" duration="2821000" />
+      <workItem from="1708837422596" duration="3016000" />
     </task>
     <servers />
   </component>
