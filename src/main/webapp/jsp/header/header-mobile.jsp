@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 <!-- Menu Mobile -->
 <div class="menu-mobile">
     <ul class="topbar-mobile">
@@ -47,7 +45,6 @@
         </li>
     </ul>
 </div>
->>>>>>> bang
 <!-- Header Mobile -->
 <div class="wrap-header-mobile">
     <!-- Logo moblie -->
