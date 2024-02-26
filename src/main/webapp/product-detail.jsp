@@ -5,7 +5,6 @@
 	<%@ include file="jsp/meta-link/meta-link1.jsp"%>
 </head>
 <body class="animsition">
-	
 	<!-- Header -->
 	<header>
 		<%@ include file="jsp/header/header-desktop.jsp"%>
