@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b5e47e-48b8-4b18-8fe4-aed2f031c168" name="Changes" comment="first-commit" />
+    <list default="true" id="b4b5e47e-48b8-4b18-8fe4-aed2f031c168" name="Changes" comment="first-commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/bang.jsp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,11 +62,15 @@
     "Tomcat Server.index.jsp.executor": "Run",
     "git-widget-placeholder": "toan",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/mysql-connector-java-8.0.30.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -172,7 +180,8 @@
       <updated>1708785011004</updated>
       <workItem from="1708785012058" duration="329000" />
       <workItem from="1708835545451" duration="1589000" />
-      <workItem from="1708837422596" duration="3016000" />
+      <workItem from="1708837422596" duration="3213000" />
+      <workItem from="1708924397516" duration="2031000" />
     </task>
     <servers />
   </component>
