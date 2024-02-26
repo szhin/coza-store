@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4b5e47e-48b8-4b18-8fe4-aed2f031c168" name="Changes" comment="first-commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/about.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/blog-detail.jsp" beforeDir="false" />
