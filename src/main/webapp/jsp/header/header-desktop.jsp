@@ -41,7 +41,9 @@
                 </div>
 
                 <div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti js-show-cart" data-notify="2">
-                    <i class="zmdi zmdi-shopping-cart"></i>
+                        <a href="shoping-cart.jsp">
+                            <i class="zmdi zmdi-shopping-cart" style="color: #000;"></i>
+                        </a>
                 </div>
 
             </div>
