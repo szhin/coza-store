@@ -41,6 +41,7 @@
 	<header>
 		<%@ include file="jsp/header/header-desktop.jsp"%>
 		<%@ include file="jsp/header/header-mobile.jsp"%>
+<<<<<<< HEAD
 		<%@ include file="jsp/header/topbar-mobile.jsp"%>
 		<%@ include file="jsp/header/modal-search.jsp"%>
 	</header>
@@ -129,6 +130,11 @@
 		</div>
 	</div>
 
+=======
+		<%@ include file="jsp/header/topbar.jsp"%>
+		<%@ include file="jsp/header/search.jsp"%>
+	</header>
+>>>>>>> bang
 
 
 	<!-- Slider -->
@@ -209,7 +215,6 @@
 			</div>
 		</div>
 	</section>
-
 
 	<!-- Banner -->
 	<div class="sec-banner bg0 p-t-80 p-b-50">
@@ -292,7 +297,6 @@
 			</div>
 		</div>
 	</div>
-
 
 	<!-- Product -->
 	<section class="bg0 p-t-23 p-b-140">
@@ -1068,8 +1072,8 @@
 		</div>
 	</section>
 
-
 	<!-- Footer -->
+<<<<<<< HEAD
 	<footer class="bg3 p-t-75 p-b-32">
 		<div class="container">
 			<div class="row">
@@ -1214,13 +1218,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		</div>
 	</footer>
 
+=======
+	<%@ include file="jsp/footer.jsp"%>
+>>>>>>> bang
 
 	<!-- Back to top -->
-	<div class="btn-back-to-top" id="myBtn">
-		<span class="symbol-btn-back-to-top">
-			<i class="zmdi zmdi-chevron-up"></i>
-		</span>
-	</div>
+	<%@ include file="jsp/back-to-top.jsp"%>
 
 	<!-- Modal1 -->
 	<div class="wrap-modal1 js-modal1 p-t-60 p-b-20">
