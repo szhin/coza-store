@@ -9,31 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b5e47e-48b8-4b18-8fe4-aed2f031c168" name="Changes" comment="first-commit">
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/header/header-desktop.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/header/header-mobile.jsp" afterDir="false" />
+    <list default="true" id="8f2f326f-d41e-48f6-b3bd-52e8d5464a5c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/bang.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/home-02.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/home-03.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/product-detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product-detail.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/product.jsp" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/blog.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/home-02.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/home-03.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/header/header-desktop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/header/header-desktop.jsp" afterDir="false" />
->>>>>>> bang
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/bang.jsp" beforeDir="false" />
->>>>>>> toan
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +21,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-<<<<<<< HEAD
-=======
         <option value="Class" />
->>>>>>> toan
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "szhin"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;szhin&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -95,48 +69,51 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "JUnit.All in StoreWebsite.executor": "Run",
-    "JavaScript Debug.index.jsp.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Tomcat Server.Tomcat 10.1.19.executor": "Run",
-    "Tomcat Server.index.jsp.executor": "Run",
-<<<<<<< HEAD
-    "git-widget-placeholder": "bang",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/bangpc/Documents/Github/StoreWebsite/src/main/webapp/jsp/header",
-=======
+    "Application.JDBCUtil.executor": "Run",
+    "Application.UserDAO.executor": "Run",
+    "JavaVariableFindUsagesOptions.isSearchForTextOccurrences": "true",
     "git-widget-placeholder": "toan",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/mysql-connector-java-8.0.30.jar",
->>>>>>> toan
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
+    "last_opened_file_path": "D:/Tải/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-<<<<<<< HEAD
-=======
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
->>>>>>> toan
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
   <component name="RecentsManager">
-<<<<<<< HEAD
-    <key name="MoveFile.RECENT_KEYS">
-=======
+    <key name="MoveFile.RECENT_KEYS" />
     <key name="CopyFile.RECENT_KEYS">
->>>>>>> bang
       <recent name="$PROJECT_DIR$/src/main/webapp/jsp/header" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.UserDAO">
+    <configuration name="JDBCUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="database.JDBCUtil" />
+      <module name="StoreWebsite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="database.UserDAO" />
+      <module name="StoreWebsite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 10.1.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.19" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="StoreWebsite:war exploded">
@@ -223,13 +200,12 @@
         </option>
       </method>
     </configuration>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserDAO" />
+        <item itemvalue="Application.JDBCUtil" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -239,14 +215,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708785011004</updated>
-<<<<<<< HEAD
       <workItem from="1708785012058" duration="11398000" />
-=======
       <workItem from="1708785012058" duration="329000" />
       <workItem from="1708835545451" duration="1589000" />
       <workItem from="1708837422596" duration="3213000" />
       <workItem from="1708924397516" duration="2031000" />
->>>>>>> toan
     </task>
     <servers />
   </component>
