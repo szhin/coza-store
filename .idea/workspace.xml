@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4b5e47e-48b8-4b18-8fe4-aed2f031c168" name="Changes" comment="first-commit">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/header/header-desktop.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/header/header-mobile.jsp" afterDir="false" />
@@ -29,6 +30,10 @@
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/header/header-desktop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/header/header-desktop.jsp" afterDir="false" />
 >>>>>>> bang
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/bang.jsp" beforeDir="false" />
+>>>>>>> toan
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+<<<<<<< HEAD
+=======
+        <option value="Class" />
+>>>>>>> toan
       </list>
     </option>
   </component>
@@ -94,14 +103,26 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Tomcat Server.Tomcat 10.1.19.executor": "Run",
     "Tomcat Server.index.jsp.executor": "Run",
+<<<<<<< HEAD
     "git-widget-placeholder": "bang",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/bangpc/Documents/Github/StoreWebsite/src/main/webapp/jsp/header",
+=======
+    "git-widget-placeholder": "toan",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/mysql-connector-java-8.0.30.jar",
+>>>>>>> toan
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
+=======
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+>>>>>>> toan
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -203,6 +224,13 @@
       </method>
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -211,7 +239,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708785011004</updated>
+<<<<<<< HEAD
       <workItem from="1708785012058" duration="11398000" />
+=======
+      <workItem from="1708785012058" duration="329000" />
+      <workItem from="1708835545451" duration="1589000" />
+      <workItem from="1708837422596" duration="3213000" />
+      <workItem from="1708924397516" duration="2031000" />
+>>>>>>> toan
     </task>
     <servers />
   </component>
