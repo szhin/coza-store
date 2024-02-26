@@ -41,7 +41,7 @@
 	<header>
 		<%@ include file="jsp/header/header-desktop.jsp"%>
 		<%@ include file="jsp/header/header-mobile.jsp"%>
-<<<<<<< HEAD
+
 		<%@ include file="jsp/header/topbar-mobile.jsp"%>
 		<%@ include file="jsp/header/modal-search.jsp"%>
 	</header>
@@ -130,11 +130,11 @@
 		</div>
 	</div>
 
-=======
+
 		<%@ include file="jsp/header/topbar.jsp"%>
 		<%@ include file="jsp/header/search.jsp"%>
 	</header>
->>>>>>> bang
+
 
 
 	<!-- Slider -->
